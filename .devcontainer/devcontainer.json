@@ -13,8 +13,10 @@
                 "ms-python.python",
                 "ms-python.black-formatter",
                 "ms-python.mypy-type-checker",
-                "charliermarsh.ruff"
+                "charliermarsh.ruff",
+                "ms-azuretools.vscode-docker"
             ]
         }
-    }
+    },
+    "remoteUser": "devuser"
 }
