@@ -12,7 +12,8 @@
             "extensions": [
                 "ms-python.python",
                 "ms-python.black-formatter",
-                "ms-python.mypy-type-checker",
+                // "ms-python.mypy-type-checker",
+                "matangover.mypy",
                 "charliermarsh.ruff",
                 "ms-azuretools.vscode-docker"
             ]
